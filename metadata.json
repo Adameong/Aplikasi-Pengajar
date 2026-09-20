@@ -1,0 +1,6 @@
+{
+  "name": "Modul Ajar SMP Kurikulum Merdeka",
+  "description": "Aplikasi penyusun Modul Ajar otomatis berbasis CP dan ATP terbaru Kurikulum Merdeka untuk guru SMP (Fase D), dilengkapi generator dokumen PDF, sinkronisasi Google Drive, dan integrasi penilaian siswa otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
